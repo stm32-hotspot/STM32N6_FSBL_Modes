@@ -1,0 +1,6 @@
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_lrun.c:53:20:BOOT_Application	3
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_lrun.c:84:20:MapMemory	5
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_lrun.c:118:20:CopyApplication	5
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_lrun.c:193:20:JumpToApplication	5
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_lrun.c:244:18:BOOT_GetApplicationSize	1
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_lrun.c:250:17:BOOT_GetApplicationVectorTable	1

@@ -1,0 +1,10 @@
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:121:22:EXTMEM_Init	4
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:203:22:EXTMEM_DeInit	3
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:266:22:EXTMEM_Read	4
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:332:22:EXTMEM_Write	4
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:398:22:EXTMEM_WriteInMappedMode	6
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:434:22:EXTMEM_EraseSector	20
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:567:22:EXTMEM_EraseAll	5
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:626:22:EXTMEM_GetInfo	4
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:673:22:EXTMEM_MemoryMappedMode	7
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:767:22:EXTMEM_GetMapAddress	7

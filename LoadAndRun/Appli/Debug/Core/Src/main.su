@@ -1,0 +1,6 @@
+../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:1165:22:LL_AHB3_GRP1_EnableClock	24	static
+../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:1407:22:LL_AHB4_GRP1_EnableClock	24	static
+../Core/Src/main.c:64:5:main	8	static
+../Core/Src/main.c:114:15:SystemIsolation_Config	8	static
+../Core/Src/main.c:143:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:174:6:Error_Handler	4	static,ignoring_inline_asm

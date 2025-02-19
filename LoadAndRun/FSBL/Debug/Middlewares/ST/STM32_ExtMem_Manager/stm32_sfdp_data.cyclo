@@ -1,0 +1,13 @@
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:1077:20:SFDP_ReadHeader	5
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:1122:20:SFDP_GetHeader	7
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:1173:20:SFDP_CollectData	15
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:1242:20:SFDP_MemoryReset	21
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:1376:20:SFDP_BuildGenericDriver	84
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:1947:38:driver_check_FlagBUSY	3
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:1980:10:sfdp_getfrequencevalue	2
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:1999:20:sfdp_get_paraminfo	26
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:2126:20:sfpd_enter_octal_mode	13
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:2247:20:sfpd_set_dummycycle	11
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:2342:20:JEDEC_Basic_ManageQuadEnableRequierement	12
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:2458:20:JEDEC_Basic_Manage4S4S4SEnableSequence	5
+C:/Users/montanab/STM32CubeIDE/LoadAndRun/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:2511:20:CheckSFDP_Signature	4
