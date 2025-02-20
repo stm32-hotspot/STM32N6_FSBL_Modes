@@ -1,0 +1,12 @@
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:135:38:EXTMEM_DRIVER_NOR_SFDP_Init	48	static
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:256:38:EXTMEM_DRIVER_NOR_SFDP_DeInit	16	static
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:262:6:EXTMEM_DRIVER_NOR_SFDP_GetFlashInfo	16	static
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:278:38:EXTMEM_DRIVER_NOR_SFDP_Write	56	static
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:348:38:EXTMEM_DRIVER_NOR_SFDP_WriteInMappedMode	56	static
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:447:38:EXTMEM_DRIVER_NOR_SFDP_Read	40	static
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:468:38:EXTMEM_DRIVER_NOR_SFDP_SectorErase	32	static
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:547:38:EXTMEM_DRIVER_NOR_SFDP_MassErase	24	static
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:586:38:EXTMEM_DRIVER_NOR_SFDP_Enable_MemoryMappedMode	40	static
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:601:38:EXTMEM_DRIVER_NOR_SFDP_Disable_MemoryMappedMode	24	static
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:640:38:driver_set_FlagWEL	40	static
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:664:13:EXTMEM_MemCopy	32	static

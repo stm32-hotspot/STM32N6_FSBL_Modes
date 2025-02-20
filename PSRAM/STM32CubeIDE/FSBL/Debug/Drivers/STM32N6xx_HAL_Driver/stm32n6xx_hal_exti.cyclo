@@ -1,0 +1,13 @@
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_exti.c:139:19:HAL_EXTI_SetConfigLine	9
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_exti.c:261:19:HAL_EXTI_GetConfigLine	9
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_exti.c:364:19:HAL_EXTI_ClearConfigLine	4
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_exti.c:430:19:HAL_EXTI_RegisterCallback	5
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_exti.c:466:19:HAL_EXTI_GetHandle	2
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_exti.c:507:6:HAL_EXTI_IRQHandler	5
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_exti.c:561:10:HAL_EXTI_GetPending	2
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_exti.c:605:6:HAL_EXTI_ClearPending	2
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_exti.c:641:6:HAL_EXTI_GenerateSWI	1
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_exti.c:691:6:HAL_EXTI_ConfigLineAttributes	5
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_exti.c:761:19:HAL_EXTI_GetConfigLineAttributes	4
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_exti.c:818:6:HAL_EXTI_LockAttributes	1
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_exti.c:827:10:HAL_EXTI_GetLockAttributes	1

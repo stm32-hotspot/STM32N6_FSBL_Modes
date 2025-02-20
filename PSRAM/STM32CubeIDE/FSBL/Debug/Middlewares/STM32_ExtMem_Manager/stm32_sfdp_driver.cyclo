@@ -1,0 +1,12 @@
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:135:38:EXTMEM_DRIVER_NOR_SFDP_Init	8
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:256:38:EXTMEM_DRIVER_NOR_SFDP_DeInit	1
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:262:6:EXTMEM_DRIVER_NOR_SFDP_GetFlashInfo	5
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:278:38:EXTMEM_DRIVER_NOR_SFDP_Write	7
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:348:38:EXTMEM_DRIVER_NOR_SFDP_WriteInMappedMode	12
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:447:38:EXTMEM_DRIVER_NOR_SFDP_Read	3
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:468:38:EXTMEM_DRIVER_NOR_SFDP_SectorErase	9
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:547:38:EXTMEM_DRIVER_NOR_SFDP_MassErase	4
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:586:38:EXTMEM_DRIVER_NOR_SFDP_Enable_MemoryMappedMode	2
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:601:38:EXTMEM_DRIVER_NOR_SFDP_Disable_MemoryMappedMode	2
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:640:38:driver_set_FlagWEL	4
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_driver.c:664:13:EXTMEM_MemCopy	2

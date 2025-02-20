@@ -1,0 +1,6 @@
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_lrun.c:53:20:BOOT_Application	16	static
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_lrun.c:84:20:MapMemory	16	static
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_lrun.c:118:20:CopyApplication	32	static
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_lrun.c:193:20:JumpToApplication	48	static,ignoring_inline_asm
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_lrun.c:244:18:BOOT_GetApplicationSize	16	static
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_lrun.c:250:17:BOOT_GetApplicationVectorTable	16	static

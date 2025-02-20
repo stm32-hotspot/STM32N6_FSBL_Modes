@@ -1,0 +1,8 @@
+../../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:1407:22:LL_AHB4_GRP1_EnableClock	1
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/FSBL/Core/Src/main.c:71:5:main	6
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/FSBL/Core/Src/main.c:134:6:SystemClock_Config	8
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/FSBL/Core/Src/main.c:227:13:MX_XSPI1_Init	3
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/FSBL/Core/Src/main.c:278:13:MX_XSPI2_Init	3
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/FSBL/Core/Src/main.c:329:13:MX_GPIO_Init	1
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/FSBL/Core/Src/main.c:349:6:MPU_Config	1
+C:/Users/montanab/STM32CubeIDE/workspace_1.17.0/N6_KB/PSRAM/PSRAM/FSBL/Core/Src/main.c:392:6:Error_Handler	1
